@@ -1,0 +1,13 @@
+opencv-python
+numpy
+Pillow
+openai
+
+# Локальные AI-режимы
+torch
+diffusers
+transformers
+accelerate
+safetensors
+insightface
+onnxruntime
